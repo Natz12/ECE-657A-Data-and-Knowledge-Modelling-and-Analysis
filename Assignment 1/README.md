@@ -4,6 +4,6 @@
   * Missing values, interpolation
   * Outlier detection: Z-score, Tukey, Windsor
 
-* Q2:Feature Extraction
+* Q2: Feature Extraction
   * PCA
 
