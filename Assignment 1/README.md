@@ -1,9 +1,9 @@
 # Topics
 
-- Q1: Data Preprocessing
--- Missing values, interpolation
--- outlier detection: Z-score, Tukey, Windsor
+* Q1: Data Preprocessing
+  * Missing values, interpolation
+  * Outlier detection: Z-score, Tukey, Windsor
 
-- Q2:Feature Extraction
--- PCA
+* Q2:Feature Extraction
+  * PCA
 
